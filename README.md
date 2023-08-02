@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Luis Tripa</h1>
 <h3 align="center">A computer engineering student passionate about outer space :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luistripa" alt="luistripa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luistripa&theme=chalk" alt="luistripa" /></a> </p>
 
 - ⚡ Fun fact **I play the drums! 🥁**
 
